@@ -1,5 +1,9 @@
 ### Hi there i am ravi 👋
 
+
+- 🌱 I’m currently learning mern stack
+- 💬 Ask me about web development
+- 📫 How to reach me: kvvsatyaravi318@gmail.com
 <!--
 **kvvsatyaravi/kvvsatyaravi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
