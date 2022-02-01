@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning mern stack
 - 💬 Ask me about web development
-- 📫 How to reach me: kvvsatyaravi318@gmail.com
+- 📫 How to reach me: kvvsatyaravi@gmail.com
 - 👯 I’m looking to collaborate on react related projects
 <!--
 **kvvsatyaravi/kvvsatyaravi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
