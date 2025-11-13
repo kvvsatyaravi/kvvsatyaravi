@@ -1,7 +1,7 @@
 ### Hi there i am ravi 👋
 
 
-- 🌱 I’m currently learning mern stack
+- 🌱 I’m currently working as frontend developer (GIS Domain)
 - 💬 Ask me about web development
 - 📫 How to reach me: kvvsatyaravi@gmail.com
 - 👯 I’m looking to collaborate on react related projects
